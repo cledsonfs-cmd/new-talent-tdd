@@ -1,14 +1,29 @@
-C:\Users\User\source\repos\NewTalents\NewTalents\bin\Debug\net6.0\NewTalents.exe
-C:\Users\User\source\repos\NewTalents\NewTalents\bin\Debug\net6.0\NewTalents.deps.json
-C:\Users\User\source\repos\NewTalents\NewTalents\bin\Debug\net6.0\NewTalents.runtimeconfig.json
-C:\Users\User\source\repos\NewTalents\NewTalents\bin\Debug\net6.0\NewTalents.dll
-C:\Users\User\source\repos\NewTalents\NewTalents\bin\Debug\net6.0\NewTalents.pdb
-C:\Users\User\source\repos\NewTalents\NewTalents\obj\Debug\net6.0\NewTalents.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\User\source\repos\NewTalents\NewTalents\obj\Debug\net6.0\NewTalents.AssemblyInfoInputs.cache
-C:\Users\User\source\repos\NewTalents\NewTalents\obj\Debug\net6.0\NewTalents.AssemblyInfo.cs
-C:\Users\User\source\repos\NewTalents\NewTalents\obj\Debug\net6.0\NewTalents.csproj.CoreCompileInputs.cache
-C:\Users\User\source\repos\NewTalents\NewTalents\obj\Debug\net6.0\NewTalents.dll
-C:\Users\User\source\repos\NewTalents\NewTalents\obj\Debug\net6.0\refint\NewTalents.dll
-C:\Users\User\source\repos\NewTalents\NewTalents\obj\Debug\net6.0\NewTalents.pdb
-C:\Users\User\source\repos\NewTalents\NewTalents\obj\Debug\net6.0\NewTalents.genruntimeconfig.cache
-C:\Users\User\source\repos\NewTalents\NewTalents\obj\Debug\net6.0\ref\NewTalents.dll
+C:/Users/User/source/repos/NewTalents/NewTalents/bin/Debug/net6.0/NewTalents.exe
+C:/Users/User/source/repos/NewTalents/NewTalents/bin/Debug/net6.0/NewTalents.deps.json
+C:/Users/User/source/repos/NewTalents/NewTalents/bin/Debug/net6.0/NewTalents.runtimeconfig.json
+C:/Users/User/source/repos/NewTalents/NewTalents/bin/Debug/net6.0/NewTalents.dll
+C:/Users/User/source/repos/NewTalents/NewTalents/bin/Debug/net6.0/NewTalents.pdb
+C:/Users/User/source/repos/NewTalents/NewTalents/obj/Debug/net6.0/NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/source/repos/NewTalents/NewTalents/obj/Debug/net6.0/NewTalents.AssemblyInfoInputs.cache
+C:/Users/User/source/repos/NewTalents/NewTalents/obj/Debug/net6.0/NewTalents.AssemblyInfo.cs
+C:/Users/User/source/repos/NewTalents/NewTalents/obj/Debug/net6.0/NewTalents.csproj.CoreCompileInputs.cache
+C:/Users/User/source/repos/NewTalents/NewTalents/obj/Debug/net6.0/NewTalents.dll
+C:/Users/User/source/repos/NewTalents/NewTalents/obj/Debug/net6.0/refint/NewTalents.dll
+C:/Users/User/source/repos/NewTalents/NewTalents/obj/Debug/net6.0/NewTalents.pdb
+C:/Users/User/source/repos/NewTalents/NewTalents/obj/Debug/net6.0/NewTalents.genruntimeconfig.cache
+C:/Users/User/source/repos/NewTalents/NewTalents/obj/Debug/net6.0/ref/NewTalents.dll
+/home/cledson/Bootcamps/Deal - Spring Boot e Angular (17+)/new-talent-tdd/NewTalents/bin/Debug/net6.0/NewTalents
+/home/cledson/Bootcamps/Deal - Spring Boot e Angular (17+)/new-talent-tdd/NewTalents/bin/Debug/net6.0/NewTalents.deps.json
+/home/cledson/Bootcamps/Deal - Spring Boot e Angular (17+)/new-talent-tdd/NewTalents/bin/Debug/net6.0/NewTalents.runtimeconfig.json
+/home/cledson/Bootcamps/Deal - Spring Boot e Angular (17+)/new-talent-tdd/NewTalents/bin/Debug/net6.0/NewTalents.dll
+/home/cledson/Bootcamps/Deal - Spring Boot e Angular (17+)/new-talent-tdd/NewTalents/bin/Debug/net6.0/ref/NewTalents.dll
+/home/cledson/Bootcamps/Deal - Spring Boot e Angular (17+)/new-talent-tdd/NewTalents/bin/Debug/net6.0/NewTalents.pdb
+/home/cledson/Bootcamps/Deal - Spring Boot e Angular (17+)/new-talent-tdd/NewTalents/obj/Debug/net6.0/NewTalents.csproj.AssemblyReference.cache
+/home/cledson/Bootcamps/Deal - Spring Boot e Angular (17+)/new-talent-tdd/NewTalents/obj/Debug/net6.0/NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+/home/cledson/Bootcamps/Deal - Spring Boot e Angular (17+)/new-talent-tdd/NewTalents/obj/Debug/net6.0/NewTalents.AssemblyInfoInputs.cache
+/home/cledson/Bootcamps/Deal - Spring Boot e Angular (17+)/new-talent-tdd/NewTalents/obj/Debug/net6.0/NewTalents.AssemblyInfo.cs
+/home/cledson/Bootcamps/Deal - Spring Boot e Angular (17+)/new-talent-tdd/NewTalents/obj/Debug/net6.0/NewTalents.csproj.CoreCompileInputs.cache
+/home/cledson/Bootcamps/Deal - Spring Boot e Angular (17+)/new-talent-tdd/NewTalents/obj/Debug/net6.0/NewTalents.dll
+/home/cledson/Bootcamps/Deal - Spring Boot e Angular (17+)/new-talent-tdd/NewTalents/obj/Debug/net6.0/ref/NewTalents.dll
+/home/cledson/Bootcamps/Deal - Spring Boot e Angular (17+)/new-talent-tdd/NewTalents/obj/Debug/net6.0/NewTalents.pdb
+/home/cledson/Bootcamps/Deal - Spring Boot e Angular (17+)/new-talent-tdd/NewTalents/obj/Debug/net6.0/NewTalents.genruntimeconfig.cache
